@@ -1,1 +1,1 @@
-# -bgremover
+# bgremover
